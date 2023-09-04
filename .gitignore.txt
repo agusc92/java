@@ -1,2 +1,2 @@
 # ignora la carpeta metadata
-/.metadata
+.metadata
